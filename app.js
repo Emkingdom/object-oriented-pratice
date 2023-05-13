@@ -53,5 +53,3 @@ class Garage {
     return message;
   }
 }
-
-let garage = new Garage(2);
